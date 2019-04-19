@@ -1,6 +1,6 @@
 # Express Boilerplate!
 
-This is a boilerplate project used for starting new projects!
+Feel free to use this boilerplate for starting new projects :)
 
 ## Set up
 
